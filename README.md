@@ -16,3 +16,49 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 --- 
 
 <a><img src='https://files.catbox.moe/088ysx.jpg'/></a>
+
+ href="https://github.com/spotymtf/followers"><img title="Followers" src="https://img.shields.io/github/followers/spotymtf?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/spotymtf/SPOTY-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/spotymtf/SPOTY-XMD"><img title="Size" src="https://img.shields.io/github/repo-size/spotymtf/SPOTY-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/spotymtf/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+
+
+***
+
+---
+
+## ✨ Features
+
+- ✅ QR Code Generator for WhatsApp Pairing  
+- ✅ Session Sharing System  
+- ✅ Fully Open Source  
+- ✅ Auto QR to DM  
+- ✅ Session ID Generator (`Ballas 𝗑ᴾᴿᴼ-SESSION-ID`)  
+- ✅ Multi Deploy Options (Render, Heroku, Koyeb, etc.)
+
+---
+
+
+## 🪀 WHATSAPP CHANNEL 
+STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb69VN4L2ATxtPPRrR1V)
+
+## ⚙️ Deploy Easily
+
+
+### 🔑 Get PAIR CODE
+[![Ballas 𝗑ᴾᴿᴼ PAIR](https://img.shields.io/badge/SPOTY%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://spoty-xmd-session.onrender.com)
+
+
+---
+
+### 🚀 Fork This Repo
+
+<p align="center">
+  <a href="https://github.com/spotymtf/SPOTY-XMD/fork">
+    <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
