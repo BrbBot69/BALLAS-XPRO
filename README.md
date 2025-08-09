@@ -42,7 +42,7 @@ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHA
 
 
 ### 🔑 Get PAIR CODE
-[![Ballas 𝗑ᴾᴿᴼ PAIR](https://img.shields.io/badge/SPOTY%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://spoty-xmd-session.onrender.com)
+[![Ballas 𝗑ᴾᴿᴼ PAIR](https://img.shields.io/badge/SPOTY%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://davidcyril-session-id-generator-05gx.onrender.com/)
 
 
 ---
