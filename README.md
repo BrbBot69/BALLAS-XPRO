@@ -42,7 +42,7 @@ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHA
 
 
 ### 🔑 Get PAIR CODE
-[![Ballas XPRO PAIR](https://img.shields.io/badge/BALLAS%20-XPRO%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://davidcyril-session-id-generator-05gx.onrender.com/)
+[![Ballas XPRO PAIR](https://img.shields.io/badge/BALLAS%20-XPRO%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://davidcyril-session-id-generator-800j.onrender.com/)
 
 
 ---
