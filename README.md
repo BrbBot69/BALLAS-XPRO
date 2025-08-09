@@ -50,7 +50,7 @@ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHA
 ### 🚀 Fork This Repo
 
 <p align="center">
-  <a href="https://github.com/BrbBot69/Ballas-/fork">
+  <a href="https://github.com/BrbBot69/BALLAS-XPRO/fork">
     <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
